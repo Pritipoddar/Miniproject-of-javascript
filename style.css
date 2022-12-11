@@ -1,0 +1,25 @@
+body{
+    background-color: purple;
+    margin: 0;
+}
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+#demo{
+    background-color: aliceblue;
+    color: purple;
+    font-size: 35px;
+    margin: 30px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bolder;
+}
+form{
+text-align: center;
+}
+#reload {
+    display: none;
+}
+
